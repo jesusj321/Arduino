@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arduino</string>
+    <string name="title_activity_device_managment">Semáforo</string>
+</resources>
